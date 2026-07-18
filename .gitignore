@@ -1,0 +1,7 @@
+﻿/uploads/*
+!/uploads/.gitkeep
+/vendor/
+*.log
+.DS_Store
+.idea/
+.vscode/

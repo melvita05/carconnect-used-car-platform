@@ -1,0 +1,10 @@
+﻿@media (max-width: 980px){
+  .grid{grid-template-columns:repeat(2,1fr)}
+  .hero{grid-template-columns:1fr}
+  .hero h1{font-size:34px}
+}
+@media (max-width: 520px){
+  .grid{grid-template-columns:1fr}
+  .nav__inner{padding:12px 14px}
+  .container{padding:16px}
+}
